@@ -1,0 +1,2 @@
+# CryptoBot
+Bot for Crypto
